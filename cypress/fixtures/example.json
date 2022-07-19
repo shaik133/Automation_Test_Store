@@ -1,0 +1,18 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+
+  "First_name":"Shaik",
+  "Last_name":"Sadiq",
+  "Email":"shaikjafarsadq786@gmail.com",
+  "Address1":"Davangere",
+  "City":"Dvg",
+  "Postal":577006,
+  "login_name":"AutomationTestStore",
+  "password":"AutomationTest@8009",
+  "confirm_password":"AutomationTest@8009",
+  "state":"Karnataka",
+  "country":"India",
+  "productName":"Product with options and stock locations"
+}

@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "npx": "^10.2.2"
+  }
+}
